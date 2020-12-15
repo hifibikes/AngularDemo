@@ -24,7 +24,7 @@
     "@angular/router": "^8.2.14",
     "angular-formio": "^4.4.3",
     "bootstrap": "^4.4.1",
-    "bootswatch": "^4.4.1",
+    "bootswatch": "^4.5.3",
     "core-js": "^3.6.2",
     "font-awesome": "^4.7.0",
     "formiojs": "^4.8.0-rc.12",
